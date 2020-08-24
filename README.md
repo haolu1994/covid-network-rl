@@ -1,2 +1,2 @@
 # MCTS
-MCTS for retrosynthetic analysis
+MCTS for covid-network-rl
