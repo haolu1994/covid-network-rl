@@ -1,2 +1,1 @@
-# MCTS
-MCTS for covid-network-rl
+# covid-network-rl
