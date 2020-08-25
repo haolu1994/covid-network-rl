@@ -1,11 +1,6 @@
 #!/bin/bash
 
-dropbox=../../dropbox/phama.ai
-data_name=uspto_multi
-tpl_name=new
-cooked_root=../cooked_data
 
-save_dir=test_out
 
 if [ ! -e $save_dir ];
 then
