@@ -14,7 +14,7 @@ fi
 
 export CUDA_VISIBLE_DEVICES=0
 
-python galixir_plan.py \
+python plan.py \
     -dropbox $dropbox \
     -model_for_test $dropbox/retrosyn_graph/model_dumps/uspto_multi.ckpt \
     -data_name $data_name \
